@@ -9,5 +9,6 @@ public class Test {
         System.out.println("Hello Java");
         System.out.println("Hello GitHub");
         System.out.println("Hello game");
+        System.out.println("Hello C++");
     }
 }

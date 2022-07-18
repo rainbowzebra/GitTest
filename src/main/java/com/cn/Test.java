@@ -10,5 +10,6 @@ public class Test {
         System.out.println("Hello GitHub");
         System.out.println("Hello game");
         System.out.println("Hello master");
+        System.out.println("Hello C++");
     }
 }

@@ -12,5 +12,6 @@ public class Test {
         System.out.println("Hello master");
         System.out.println("Hello C++");
         System.out.println("Hello Python");
+        System.out.println("Hello Go");
     }
 }
